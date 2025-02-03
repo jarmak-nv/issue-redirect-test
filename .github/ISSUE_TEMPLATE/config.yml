@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug Report
+    url: https://github.com/NVIDIA/nv-ingest/issues/new?template=bug_report_form.yml
+    about: Please report any bugs here
+  - name: Feature Request
+    url: https://github.com/NVIDIA/nv-ingest/issues/new?template=feature_request_form.yml
+    about: Please request any new or updated functionality here.
